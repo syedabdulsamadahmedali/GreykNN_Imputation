@@ -60,27 +60,3 @@ Unlike k-NN that relies on Euclidean distance, **GRA** measures similarity using
 | Mixed         | 0.468     | 0.489   |
 
 > *Performance decreases with higher missing percentages and larger datasets due to memory and neighbor selection limitations.*
-
----
-
-## 📁 Suggested Repo Name
-
-**`grey-knn-imputation`**  
-> Descriptive and consistent with naming conventions used for advanced imputation methods.
-
----
-
-## 📄 License
-
-MIT License. See `LICENSE` file.
-
----
-
-## 👤 Author
-
-**Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-> This project demonstrates the potential of Grey System Theory in practical machine learning pipelines, offering better accuracy on small, uncertain, and heterogeneous data.
